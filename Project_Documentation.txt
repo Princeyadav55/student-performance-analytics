@@ -1,0 +1,63 @@
+# Student Performance Analytics System
+
+## 1. Project Title
+**Student Performance Analytics System**
+
+## 2. Objective
+The objective of this project is to analyze student academic performance using Python, NumPy and Pandas. It calculates marks, averages, grades, pass/fail results, attendance statistics and department-wise performance.
+
+## 3. Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- CSV dataset
+
+## 4. Dataset Description
+The project uses `students.csv`, containing 20 student records with Student ID, Name, Department, Python marks, Mathematics marks, Data Analysis marks and Attendance.
+
+## 5. Implementation
+1. Loaded the CSV dataset using Pandas.
+2. Displayed dataset records, columns, shape and information.
+3. Calculated total and average marks for each student.
+4. Assigned grades using the defined grading rules.
+5. Determined pass/fail results using subject marks and average marks.
+6. Calculated class performance and subject-wise averages.
+7. Identified the top five students and highest- and lowest-performing students.
+8. Analyzed grade distribution, attendance and department-wise performance.
+9. Used Matplotlib to generate four graphs.
+
+## 6. Key Features
+- Student marks and average calculation
+- Grade calculation
+- Pass/fail analysis
+- Top five student identification
+- Subject-wise performance analysis
+- Attendance analysis
+- Department-wise performance
+- Graphical visualization
+
+## 7. Output and Results
+The program was run using `python main.py`.
+
+- Total students: 20
+- Class average: 71.55
+- Passed students: 19
+- Failed students: 1
+- Pass percentage: 95%
+- Fail percentage: 5%
+- Best-performing subject: Data Analysis
+- Highest-performing student: Kavita (95.33 average)
+- Lowest-performing student: Karan (38.00 average)
+- Average attendance: 83.40%
+
+Output screenshots will be added to the final project documentation.
+
+## 8. Final Outcome
+The project successfully analyzes the provided student dataset and displays useful academic performance statistics. It demonstrates Python functions, conditions, loops, CSV handling, NumPy, Pandas and data visualization.
+
+## 9. Challenges and Learning
+During this project, I learned how to load CSV data, process records using Pandas, calculate grades and results using functions, analyze student performance and create graphs. I also learned how to organize project files and maintain a GitHub repository.
+
+## 10. GitHub Repository
+https://github.com/Princeyadav55/student-performance-analytics
