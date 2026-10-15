@@ -78,6 +78,24 @@ Based on the current dataset:
 - Lowest-performing student: Karan (38.00 average)
 - Average attendance: 83.40%
 
+## Streamlit Web Application
+
+The project also includes a Streamlit web application that presents student performance statistics, summary metrics and searchable student records through a web interface.
+
+The command-line version can be run using `python main.py`, while the web application can be started using:
+
+```bash
+streamlit run app.py
+```
+
+## Screenshots
+
+Screenshots of the project output and web application are available in the `Screenshot/` folder, if included in the repository.
+## Live Application
+
+[https://student-performance-analytics-gtxuexqpghf4nyob7abwgm.streamlit.app/](https://student-performance-analytics-gtxuexqpghf4nyob7abwgm.streamlit.app/)
+
+
 ## How to Run
 
 Install the dependencies:
